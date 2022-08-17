@@ -240,6 +240,7 @@ nav{
 .third-title {
     position: relative;
     margin-top: 200px;
+    width: 37%;
 }
 
 .services {
@@ -260,6 +261,7 @@ nav{
     flex-direction: column;
     justify-content: space-around;
     height: 280px;
+    width: 500px;
 }
 
 .service-title {
@@ -301,7 +303,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     height: 200px;
-     width: 90%;
+     width: 85%;
      margin: 0 auto;
 }
 
@@ -309,6 +311,7 @@ nav{
     position: relative;
     right: 45px;
     font-size: 35px;
+    width: 40%;
 }
 
 .fourth-descr {
@@ -316,7 +319,8 @@ nav{
     left: 30px;
     line-height: 30px;
     font-weight: 700;
-    color: #464646
+    color: #464646;
+    width: 40%;
 }
 
 .fourth-cards {
@@ -345,13 +349,14 @@ nav{
 .fourth-text {
     margin-top: 15px;
     font-size: 14px;
+    width: 80%;
 }
 
 .team-btn {
     margin: 50px auto;
 }
 
-/*** FOURTH-SECTION (FOOTER) ***/
+/*** FIFTH-SECTION (FOOTER) ***/
 footer {
     font-family: 'Montserrat';
     background-color: #10181D;
